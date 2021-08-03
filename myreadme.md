@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Useful Resources
 
-- fonts.google.com - I found numerous fonts and font styles here. It was quite easy and direct to use. Simply copy the link and add to the <head></head> section of your html file.
+- [Google Fonts Library](fonts.google.com) - I found numerous fonts and font styles here. It was quite easy and direct to use. Simply copy the link and add to the <head></head> section of your html file.
 
 ## Author
 
