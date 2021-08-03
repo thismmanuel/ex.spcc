@@ -1,2 +1,6 @@
-font-family: 'Inter', sans-serif;
-font-family: 'Lexend Deca', sans-serif;
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: hsl(233, 47, 7)
+    
+}
