@@ -1,6 +1,10 @@
 body{
     font-family: 'Inter', sans-serif;
     font-family: 'Lexend Deca', sans-serif;
-    background-color: hsl(233, 47, 7)
-    
+    background-color: rgb(9, 11, 26);
+    font-size: 15px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

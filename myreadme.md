@@ -41,12 +41,14 @@ Users should be able to:
 ### What I Learned
 
 - I learnt how to find and add new fonts and font styles using the embeded links
+- How to convert between hsl and rgb color codes. See useful link below
 
 ### Continued Development
 
 ### Useful Resources
 
 - [Google Fonts Library](fonts.google.com) - I found numerous fonts and font styles here. It was quite easy and direct to use. Simply copy the link and add to the <head></head> section of your html file.
+- [HSL Calculator](https://www.w3schools.com/colors/colors_hsl.asp) - very useful link to convert between rgb and hsl color codes.
 
 ## Author
 
